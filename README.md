@@ -6,3 +6,6 @@ This program prompts the user for a sentence and returns some data about said se
 ## Concepts used:
 - String methods in Java
 - Arrays
+
+## Sample output:
+![Sample Output](https://raw.githubusercontent.com/WilliamHarpin/object-oriented-programming-I-A3Q1/main/Screenshots/A3Q1sc.png)
